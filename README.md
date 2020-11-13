@@ -1,8 +1,8 @@
 # Nuget packages required
 
-AE.Net.Mail
-Google.Apis.Gmail.v1
-Microsoft.AspNetCore.WebUtilities
+AE.Net.Mail\
+Google.Apis.Gmail.v1\
+Microsoft.AspNetCore.WebUtilities\
 System.Text.Encoding.CodePages
 
 # Directions

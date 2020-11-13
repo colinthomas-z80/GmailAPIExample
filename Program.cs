@@ -80,7 +80,7 @@ namespace GmailAPIProject
                 Body = body,
                 From = new MailAddress(fromAddress)
             };
-            msg.To.Add(new MailAddress("cthomas0687@gmail.com"));
+            msg.To.Add(new MailAddress(tooAddress));
             msg.ReplyTo.Add(msg.From); // Bounces without this!!
             var msgStr = new StringWriter();
             msg.Save(msgStr);

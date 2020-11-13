@@ -48,10 +48,3 @@ namespace GmailAPIProject
     }
 }
 
-
-/*Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-            AE.Net.Mail.MailMessage msg = Program.CreateMessage(
-                "Dear Colin",
-                "How are you",
-                "mailbotmailbotmailbot@gmail.com",
-                "cthomas0687@gmail.com");*/

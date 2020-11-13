@@ -1,0 +1,11 @@
+/.vs/
+.vs
+*.csproj
+*.sln
+/bin/
+bin/
+/bin
+*.json
+/obj/
+/obj
+obj/
